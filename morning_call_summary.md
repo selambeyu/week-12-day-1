@@ -1,0 +1,3 @@
+# Morning Call Summary (3-5 sentences)
+
+We held a **morning meeting about the Week 12 challenge** and walked through **what we each understand so far**—how it connects to our earlier work and what we are supposed to deliver next. We compared notes on our **Week 10 and Week 11 projects** (for example, agent and bench-style work) and surfaced places where our explanations still felt hand-wavy. **Next step:** each of us will **do targeted research** and **identify concrete knowledge gaps** in our own Week 10/11 artifacts so we can turn them into **specific questions for each other**. We **scheduled an evening check-in** where we will **ask those questions** and **explain answers to one another**, so the day ends with a clear peer exchange rather than open-ended reading.
